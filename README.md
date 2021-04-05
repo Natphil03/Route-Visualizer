@@ -1,4 +1,4 @@
-# Route-Visualizer-And-Overall-Distance
+# Route-Visualizer
 
 A route visualizer using the MapQuest Directions API and Static Map API to allow user to input starting and ending location and draw a route onto a map and output overall distance
 
